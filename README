@@ -1,4 +1,10 @@
-This is your new Play 2.0 application
+Forme of Cury - A Full Home Kitchen Management Application
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+This app will have many more features but the first iteration will primarily be recipe management.
+
+To Come:
+- Achievements
+- Inventory management (kitchen equipment and tools!)
+- Social features
+- much much more!
